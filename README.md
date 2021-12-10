@@ -1,2 +1,4 @@
 # mars-robot
-mars-robot test
+Run console application
+Input plateau size
+Inpunt command to move
